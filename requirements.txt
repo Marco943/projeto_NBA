@@ -1,1 +1,2 @@
 nba_api==1.1.11
+streamlit-aggrid==0.2.3.post2
